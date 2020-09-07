@@ -16,3 +16,8 @@
 
 //= require jquery
 //= require bootstrap-sprockets
+
+// vendor
+//= require notification
+
+//= require main
